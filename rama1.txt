@@ -3,3 +3,7 @@ Esta es la 1ª línea del documento rama1.txt en la rama mirama
 Esta es la línea 3 del documento rama1.txt en la rama mirama
 Esta es la línea 4 del documento rama1.txt en la rama mirama
 Esta es la línea 5 del documento rama1.txt en la rama mirama
+
+Esta es la línea 7 del documento rama1.txt en la rama mirama
+Esta es la línea 8 del documento rama1.txt en la rama mirama
+Esta es la línea 9 del documento rama1.txt en la rama mirama
